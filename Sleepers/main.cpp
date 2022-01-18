@@ -1,5 +1,4 @@
 /*
-
 	Игра на квадратном поле
 	Вы управляете игроком (P)
 	Кроты (S) перемещаются случайным образом и уничтожают урожай (C)
@@ -8,6 +7,7 @@
 	Кроты могут уходить под землю
 	Controls: A = Turn Left, D = Turn Right, W = Walk Forwards, S = Walk Backwards
 	Last Updated: 19/11/2020
+	test
 */
 
 #include "Header.h"
